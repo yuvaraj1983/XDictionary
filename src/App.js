@@ -45,11 +45,10 @@ function App() {
       Search
      </button>
      </form>
+     <h4 >Definition:</h4>
+     <p>{meaning}</p>
      </div>
-     <div>
-        <h4 >Definition:</h4>
-        <p>{meaning}</p>
-     </div>
+  
      </>
   );
 }
